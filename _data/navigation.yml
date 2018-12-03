@@ -1,6 +1,6 @@
 - name: Home
-  link: {{site.baseurl}}/
+  link: /
 - name: Blog
-  link: {{site.baseurl}}/blog.html
+  link: /blog.html
 - name: Staff
-  link: {{site.baseurl}}/staff.html
+  link: /staff.html
