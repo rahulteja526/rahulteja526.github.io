@@ -1,6 +1,6 @@
 - name: Home
   link: /
 - name: Blog
-  link: myproject_iith/blog.html
+  link: /blog.html
 - name: Staff
-  link: myproject_iith/staff.html
+  link: /staff.html
