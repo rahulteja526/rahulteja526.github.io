@@ -19,4 +19,4 @@ defaults:
       layout: "default"
 
 
-#baseurl: "myproject_iith" # the subpath of your site, e.g. /blog
+baseurl: "myproject_iith" # the subpath of your site, e.g. /blog
