@@ -19,5 +19,5 @@ defaults:
       layout: "default"
 
 
-baseurl: "/myproject_iith" # the subpath of your site, e.g. /blog
-url: "https://rahulteja526.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "myproject_iith"
+#url: "https://rahulteja526.github.io"
