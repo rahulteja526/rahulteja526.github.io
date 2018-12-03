@@ -1,7 +1,7 @@
 ---
 
 ---
-<div class="container m-4">
+<!-- <div class="container m-4">
     <h1>Staff</h1>
   <ul>
     {% for author in site.authors %}
@@ -12,4 +12,37 @@
       </li>
     {% endfor %}
   </ul>
+</div> -->
+
+<div class="container">
+  <div class="card-deck m-5">
+    {% for author in site.authors %}
+    <!-- Card -->
+    <div class="card mb-4">
+  
+      <!--Card image-->
+      <div class="view overlay">
+        <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/16.jpg" alt="Card image cap">
+        <a href="#!">
+          <div class="mask rgba-white-slight"></div>
+        </a>
+      </div>
+  
+      <!--Card content-->
+      <div class="card-body">
+  
+        <!--Title-->
+        <h4 class="card-title"><a href="{{ author.url }}">{{ author.name }}</a></h4>
+        <!--Text-->
+        <p class="card-text">{{ author.position }}</p>
+        <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
+        <a href="{{ author.url }}" class="btn blue-gradient">Read more</a>
+  
+      </div>
+  
+    </div>
+    <!-- Card -->
+    {% endfor %}
+  </div>
 </div>
+<!-- Card deck -->
