@@ -19,5 +19,5 @@ defaults:
       layout: "default"
 
 
-baseurl: "/myproject_iith"
+baseurl: ""
 url: "https://rahulteja526.github.io"
