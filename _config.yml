@@ -2,7 +2,7 @@ title: Rahul Demo Site
 email: rahulteja.536@gmail.com
 
 baseurl: ""
-url: "http://rahulteja536.gitlab.io"
+url: "http://rahulteja526.github.io"
 
 collections:
   authors:
@@ -23,7 +23,3 @@ defaults:
       path: ""
     values:
       layout: "default"
-
-exclude: [vendor, "Gemfile", "Gemfile.lock"]
-baseurl: "rahul536.gitlab.io"
-
