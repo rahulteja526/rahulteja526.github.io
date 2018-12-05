@@ -1,0 +1,35 @@
+---
+
+---
+<div class="container">
+  <div class="card-deck m-5">
+    {% for profile in site.data.profiles %}
+    <!-- Card -->
+    <div class="card mb-4">
+  
+      <!--Card image-->
+      <div class="view overlay">
+        <img class="card-img-top" src="assets/images/{{ profile.img }}" alt="{{ profile.img }}">
+        <a href="#!">
+          <div class="mask rgba-white-slight"></div>
+        </a>
+      </div>
+  
+      <!--Card content-->
+      <div class="card-body">
+  
+        <!--Title-->
+        <!-- <h4 class="card-title">{{ profile.name }}</h4> -->
+        <!--Text-->
+        <button class="btn blue-gradient">{{ profile.name }}</button>
+        <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
+        <!-- <a href="{{ author.url }}" class="btn blue-gradient">Read more</a> -->
+  
+      </div>
+  
+    </div>
+    <!-- Card -->
+    {% endfor %}
+  </div>
+</div>
+<!-- Card deck -->
