@@ -19,12 +19,11 @@
       <div class="card-body" style="text-align: center;">
   
         <!--Title-->
-        <!-- <h4 class="card-title">{{ profile.name }}</h4> -->
+        <h4 class="card-title"><a href="{{ author.url }}">{{ profile.name }}</a></h4>
         <!--Text-->
-        <button class="btn blue-gradient">{{ profile.name }}</button>
+        <p class="card-text">{{ profile.desg }}</p>
         <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
         <!-- <a href="{{ author.url }}" class="btn blue-gradient">Read more</a> -->
-        <p>{{ profile.desg }}</p>
       </div>
   
     </div>
