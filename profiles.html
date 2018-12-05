@@ -1,12 +1,17 @@
 ---
 
 ---
+<style>
+.card-custom{
+  max-width: 12.5em;
+}
+</style>
 <div class="container">
-  <div class="card-deck m-5">
+  <div class="row m-5 justify-content-center">
     {% for profile in site.data.profiles %}
     <!-- Card -->
-    <div class="card mb-4">
-  
+    <!-- <div class="card mb-4"> -->
+    <div class="card card-custom mx-2 mb-3">
       <!--Card image-->
       <div class="view overlay">
         <img class="card-img-top" src="assets/images/{{ profile.img }}" alt="{{ profile.img }}">
