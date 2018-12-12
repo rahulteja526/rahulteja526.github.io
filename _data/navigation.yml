@@ -5,4 +5,8 @@
 - name: Staff
   link: /staff.html
 - name: Profiles
-  link: /profiles.html  
+  link: /profiles.html
+- name: PhD
+  link: /phd.html
+- name: About
+  link: /about.html  
