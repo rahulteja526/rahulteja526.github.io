@@ -79,7 +79,42 @@
 </footer>
 </html>
     <div class="container m-4">
-        <h1>Hello IIT-H!</h1>
+        <h1>Welcome IIT-H!</h1>
+
+        <div class="row float-right">
+
+        <!-- Default form contact -->
+        <form class="text-center border border-light p-5"  action="https://formspree.io/rahulteja.536@gmail.com" method="POST">
+
+        <p class="h4 mb-4">Contact us</p>
+    
+        <!-- Name -->
+        <input type="text" id="defaultContactFormName" name="name" class="form-control mb-4" placeholder="Name">
+    
+        <!-- Email -->
+        <input type="email" id="defaultContactFormEmail" name="_replyto" class="form-control mb-4" placeholder="E-mail">
+    
+        <!-- Subject -->
+        <label>Subject</label>
+        <select class="browser-default custom-select mb-4" name="issue">
+            <option value="" disabled>Choose option</option>
+            <option value="Feedback" selected>Feedback</option>
+            <option value="Report a bug">Report a bug</option>
+            <option value="Feature request">Feature request</option>
+        </select>
+    
+        <!-- Message -->
+        <div class="form-group">
+            <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder="Message" name="message"></textarea>
+        </div>
+    
+        <!-- Send button -->
+        <button class="btn btn-info btn-block" type="submit">Send</button>
+    
+        </form>
+        <!-- Default form contact -->
+        <div>
 </div>
+
   </body>
 </html>
