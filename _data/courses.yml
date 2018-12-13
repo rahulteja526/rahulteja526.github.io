@@ -1,0 +1,424 @@
+- courseCode: ID1303
+  courseTitle: Programming in C/C++ with Lab
+  credits: 2
+  preReq: NONE
+  description: Introduction to C and C++ programming. Problem solving and algorithms. Input and output operations, decision control structure, loop control structure, arrays, strings, etc. Pointers, arrays, structures, functions, file operations, classes, object oriented programming. Lab is also included in this course.
+
+- courseCode: CS1310
+  courseTitle: Discrete Structures I
+  credits: 2
+  preReq: NONE
+  description: Concept of Mathemaical Proof, Logic, Proof by contradiction, Mathematical Induction, Constructive Proofs, Sets, Relations. Illustration of Proof Techniques in various mathematical topics
+
+- courseCode: CS1340
+  courseTitle: Discrete Structures II
+  credits: 2
+  preReq: CS1310
+  description: Combinatorics. Basic Counting Principles, Inclusion - Exclusion, Binomial/Multinomial Coefficients, Bijections, Double Counting, Pigeon-Hole Principle, Recurrence Relations. Introduction to Graphs. Degree, Isomorphism, Diameter, Connectivity, Trees, Matchings, Colorings, Planarity.
+
+- courseCode: CS1353
+  courseTitle: Introduction to Data Structures
+  credits: 3
+  preReq: NONE
+  description: Abstract Data Types, Big-Oh Notation, Basic Data Types, Stacks, Queues, Trees
+
+- courseCode: CS2233
+  courseTitle: Data Structures
+  credits: 3
+  preReq: CS1353
+  description: More Data Types. Dictionaries. Binary Search Trees, Balanced Search Trees, Hash Tables, Heaps, Priority Queues, Graphs
+
+- courseCode: CS2323
+  courseTitle: Computer Architecture
+  credits: 2
+  preReq: CS1353, ID1303
+  description: The objective of this course is to teach fundamentals of Computer Architecture to CSE undergraduate students. The course would cover the following topics Instruction Set Architecture, Micro Architecture, Architecture and Performance, Arithmetic Operations in Processors, Enhancing performance with pipelining, Memory SubSystem Cache and Virtual Memory, Input / Output Organization.
+
+- courseCode: CS2400
+  courseTitle: Principles of Programming Languages - I
+  credits: 1
+  preReq: NONE
+  description: Programming Language Syntax, Basics of Compilers, Names, Scopes and Bindings, Control Flow, Data Types, Subroutines and  Control Abstraction, Various paradigms of Programming Languages.
+
+- courseCode: CS2410
+  courseTitle: Theory of Computation
+  credits: 2
+  preReq: CS1310, CS1340
+  description: Alphabets, languages, finite state machines - deterministic and non-deterministic finite automata. Context Free Grammars, Context Free Languages, Parse trees, Push Down Automata, Pumping lemma for CFLs and applications, CYK algorithm Turing machines, Variants, Undecidability theory
+
+- courseCode: CS2420
+  courseTitle: Introduction to Complexity Theory
+  credits: 1
+  preReq: CS2410
+  description: Time and Space bounded computation. Reductions, theory of NP completeness, Introduction to time and space complexity.
+
+- courseCode: CS2433
+  courseTitle: Principles of Programming Languages-II
+  credits: 3
+  preReq: CS2400
+  description: Functional programming, Object Oriented programming, Logic programming, Lambda calculus, Concurrency, Scripting languages, Programming language semantics.
+
+- courseCode: CS2443
+  courseTitle: Algorithms
+  credits: 3
+  preReq: Data Structures, Discrete Structures I, Discrete Structures II
+  description: Algorithmic Design Paradigms, Divide and Conquer, Analysis for Divide and Conquer, Sorting, Greedy Algorithms. Dynamic Programming, Graph Algorithms (DFS, BFS, Topological Sort, Single Source Shortest Path, Spanning Trees, All Pair Shortest Path, Matching, Max Flow), FFT.
+
+- courseCode: CS3303
+  courseTitle: Software Technologies
+  credits: 2
+  preReq: Introduction to Programming, Introduction to Programming Lab
+  description: Latest technologies like Java Script, JSP, Python, Android, Perl, etc to design software artifacts.
+
+- courseCode: CS3320
+  courseTitle: Compilers I
+  credits: 1
+  preReq: NONE
+  description: Syntax directed translators, Finite automata, Regular Expressions, Lexical analysis, Context free languages and grammars, Syntactic analysis,  Bottom-up and Top-down Parsing, Syntax directed translation, Lex and yacc as tools for lexical analysis and parsing.
+
+- courseCode: CS3423
+  courseTitle: Compilers II
+  credits: 3
+  preReq: CS3320
+  description: Review of compilation process, semantic analysis, intermediate code generation, runtime, code generation, introduction to simple machine independent optimizations.
+
+- courseCode: CS3510
+  courseTitle: Operating Systems I
+  credits: 1
+  preReq: Introduction to Programming, Introduction to Data Structures Either have these prerequisites for all of OS, NW, Compilers and DBMS, or have none.
+  description: History of OSs, Concurrency vs parallelism, Overview of Process management, Memory management, File systems
+
+- courseCode: CS3523
+  courseTitle: Operating Systems II
+  credits: 3
+  preReq: CS3510
+  description: Process management- process states, process vs thread, scheduling algorithms, system calls, IPC. Process synchronization- Semaphores, Monitors, Deadlocks, Main memory- Paging system, File system; Virtual memory- demand paging and page replacement algorithms, File system implementation, Disk management, and I/O management; Case studies on Windows/Linux OSs. Programming assignments related to OS features and their implementation. Further, students enhance functionalities of open-source toy OS named Minix3 by Andrew S. Tanenbaurm as part of the group projects.
+
+- courseCode: CS3530
+  courseTitle: Computer Networks-I
+  credits: 1
+  preReq: Computer Networks-I; CS3523
+  description: Basics and History of Computer Networks, TCP/IP protocol stack, Application layer (WWW, Email, DNS), Protocols at Transport layer, Network layer and Data link layer. Lab- Client-Server Design using Socket programming in C/C++/Java; Wireshark assignments on DNS, HTTP, DHCP, TCP, UDP, IP, Ethernet, ARP, etc.
+
+- courseCode: CS3543
+  courseTitle: Computer Networks-II
+  credits: 3
+  preReq: NONE
+  description: Network congestion, TCP vs UDP, IPv4 vs IPv6, Routing algorithms, Routing in Internet, ARQ protocols, Local Area Networks (Ethernet, Wi-Fi) and Multimedia Networking; Implementation of multi-threaded Web Server/Web Proxy with Caching/Filtering features, Sliding Window protocol implementation, performance study of various TCP/IP variants. Hands-on with Cisco/HP routers.
+
+- courseCode: CS3550
+  courseTitle: Introduction to Database Management Systems
+  credits: 1
+  preReq: NONE
+  description: Purpose and evolution of database management systems, Relational model of data, Formal relational languages (relational algebra/calculus), SQL, Introduction to database design
+
+- courseCode: CS3563
+  courseTitle: Database Management Systems (with Lab)
+  credits: 3
+  preReq: Introduction to Database Management Systems, Introduction to Database Management Systems Lab
+  description: Advanced SQL (procedures/functions/triggers), Database design and normal forms, Database application development, Storage structures and indexing/hashing, Query processing and optimization, Transactions, Lock-based concurrency control.
+
+- courseCode: CS4443
+  courseTitle: Software Engineering (includes Lab)
+  credits: 3
+  preReq: Introduction to Programming, Data Structures (and Lab)
+  description: Introduction to Software Engineering- Importance, challenges, approaches. Software Processes. Requirements Engineering, Software Architecture, Planning, Design, Coding, Testing, Software Project Management, Advanced topics like Formal Methods in Software Engineering
+
+- courseCode: CS5020
+  courseTitle: Pattern Recognition
+  credits: 3
+  preReq: NONE
+  description: Basics of pattern recognition, Bayesian decision theory, Classifiers, Discriminant functions, Decision surfaces, Parameter estimation methods, Hidden Markov models, dimension reduction methods, Fisher discriminant analysis, Principal component analysis, Non-parametric techniques for density estimation, non-metric methods for pattern classification, unsupervised learning, algorithms for clustering- K-means, Hierarchical and other methods
+
+- courseCode: CS5030
+  courseTitle: Advanced Topics in Data Management
+  credits: 3
+  preReq: NONE
+  description: Parallel and distributed database systems. Advanced query processing & optimization – Volcano optimizer, decorrelation techniques, holistic optimization of database applications. Adaptive query processing. Streaming databases. Data warehousing and OLAP. Spatial databases and indexing of spatial data. XML.
+
+- courseCode: CS5060
+  courseTitle: Advanced Computer Networks
+  credits: 3
+  preReq: NONE
+  description: Basics of Computer Networking, TCP/IP protocol stack, Local Area Networks (Ethernet, Wi-Fi), Network Management, Network Security, Multimedia Transport, Next generation Internet architectures, Green Communication Networks, and Data Center Networking. Performance studies using QualNet simulator and lab assignments using Seattle GENI testbed.
+
+- courseCode: CS5190
+  courseTitle: Soft Computing
+  credits: 3
+  preReq: NONE
+  description: Competitive learning models- Principle Component Analysis (PCA); Self-organizing maps (SOM); Information theoretic methods- Entropy, mutual information, K-L divergences; Independent component analysis (ICA), Maximum entropy method; Pulsed neural networks- Spiking neuron model, Integrate-and-fire neurons; Fuzzy Logic and Fuzzy systems,  Fuzzy neural networks, Fuzzy K-means algorithm; Genetic Algorithms- Evolutionary computation, Genetic operators
+
+- courseCode: NONE
+  courseTitle: Machine Learning
+  credits: 3
+  preReq: NONE
+  description: Classification, clustering - fuzzy c-means and hierarchical, decision surfaces, parameter estimation methods,  Bayesian  decision  theory, Markov  models, HMMs, dimension reduction methods, principal component analysis, SVD, Fisher discriminant analysis, perceptrons, support vector machines, unsupervised learning and k­-means clustering, non-parametric methods, applications in real world.
+
+- courseCode: CS5200
+  courseTitle: Approximation Algorithms
+  credits: 3
+  preReq: NONE
+  description: NP-hardness and approximation, approximation ratios and schemes, greedy algorithms, set cover, linear programming and rounding, primal-dual method, FPTAS for knapsack problem, bin packing, Euclidean TSP, introduction to hardness of approximation.
+
+- courseCode: CS5230
+  courseTitle: Visual Recognition
+  credits: 3
+  preReq: NONE
+  description: Introduction to Representation, Learning, Detection, Recognition of objects, activities and their interactions from images and videos; Human visual recognition system; Recognition methods- Low-level modeling (e.g. features), Mid-level abstraction (e.g. segmentation), High-level reasoning (e.g. scene understanding); Detection/Segmentation methods; Context and scenes, Importance and saliency, Large-scale search and recognition, Egocentric vision systems, Human-in-the-loop interactive systems, 3D scene understanding.
+
+- courseCode: FC5264
+  courseTitle: Advanced Compiler Optimization Techniques
+  credits: 1
+  preReq: NONE
+  description: The objective of this course is to learn basic and advanced compiler optimization techniques, either traditional or modern in their scope, or scalar-variable based or loop-optimization based in their application or machine independent or dependent in their variety. The initial part of the course would be devoted to a collection of traditional compiler analyses and optimizations that are primarily based on control flow and data flow analyses. This will be followed by studying more high-level optimizations that are based on the static single assignment intermediate representation as well as low-level optimizations like register allocation and instruction scheduling and software pipelining. The later part of this course would be devoted to a model named polyhedral compilation where for-loops can be transformed to run efficiently on advanced architectures like multi-core or GPU using rational and integer linear programming techniques. Here, the focus would be on basics of the three phase process of dependence analysis, affine scheduling and code generation.
+
+- courseCode: FC5265
+  courseTitle: Software-Defined Networks
+  credits: 2
+  preReq: NONE
+  description: Software-Defined Networks is an active research topic to address the existing issues in the enterprise and global networks as well as to enable innovative networking that is not restricted by the traditional network architecture.  This course conducts the analysis and solution development for the existing challenges in the computer networks.  We introduce SDN for the solution development, system design and its implementation.  The expected outcome of this course is the running source codes and systems that will be proposed and developed by the students as well as a writing for publishing such outcomes for public.
+
+- courseCode: FC5268
+  courseTitle: Indexing Spatial and Temporal Data
+  credits: 1
+  preReq: 3rd Yr CSE BTechs and onwards
+  description:
+  - The course introduces indexing techniques for spatial and temporal data, covering even more abstract metric spaces.  It describes a range of indexing techniques targeting different types of data, including their underlying principles and properties, as well as their support for queries and updates. The contents of this course are collected from state-of-the-art research papers (i.e., not found in textbooks).
+    - Below is a broad breakdown of the course
+      - Indexing low-dimensional data (1-5 dimensions) E.g. Indexing Spatial Data with R-trees, R-tree variants, Space-Filling Curves (Hilbert, Z-curves etc), Quad-trees etc.
+      - Indexing high-dimensional data E.g. Locality Sensitive Hashing (LSH), VA File
+      - Indexing Metric Spaces E.g. Metric Trees, GNAT, VP-Tree, iDistance
+      - Indexing Time Series E.g. TS tree, Chebyshev Polynomials, Wavelet-based indexing, MR Index
+
+- courseCode: FC5269
+  courseTitle: High performance computing using R
+  credits: 1
+  preReq: NONE
+  description:
+  - Introduction
+  - The parallel R taxonomy
+  - Lappy and foreach-based parallelism
+  - Map reduce based parallelism
+
+- courseCode: CS5300
+  courseTitle: Parallel and Concurrent Programming
+  credits: 3
+  preReq: Data Structures, Operating Systems
+  description: This course will provide an introduction to parallel and concurrent programming. It will focus both on correctness and efficiency of multi-threaded programs. Introduction; Mutual Exclusion; Concurrent Objects; Foundations of Shared Memory; Consistency condition for concurrent objects- Sequential consistency, Linearizability; Consensus; Universality; Spin Locks; Multi-thread Linked Lists; Queues and Stacks; Counting; Hash Sets; Futures and Work-Stealing; Barriers; Transactional Memory; Parallel Graph and Marix Algorithms
+
+- courseCode: CS5310
+  courseTitle: Advanced Operating Systems for Pervasive Computing
+  credits: 1
+  preReq: Operating Systems
+  description: 
+    - Introduction to Advanced OS Systems & Architecture
+    - Linux Kernel Frameworks & Infrastructure
+    - File-System Interface & Implementation
+    - Linux I/O Systems
+
+
+- courseCode: CS5311
+  courseTitle: Pervasive Computing Lab
+  credits: 2
+  preReq: Operating Systems
+  description: 
+    - Linux Kernel Frameworks & Infrastructure
+    - Multimedia Framework Architecture
+    - Network Framework
+    - Graphics and UI Frameworks
+    - Web Framework
+    - Application Development
+    - Introduction to IoT
+
+- courseCode: CS5320
+  courseTitle: Distributed Computing
+  credits: 3
+  preReq: Data Structures and Operating Systems or Introduction to Operating Systems
+  description: Termination Detection Algorithms; Reasoning with Knowledge; Distributed Mutual Exclusion Algorithms; Deadlock Detection Algorithms; Global Predicate Detection; Distributed Shared Memory; Checkpointing and Rollback Recovery; Consensus and Agreement; Failure Detectors; Distributed file servers; Distributed programming environments- Communication primitives, selected case studies.  (Note- Some topics may be added/deleted to suit specific offerings of the course)
+
+- courseCode: CS5330
+  courseTitle: Introduction to Statistical Natural Language Processing
+  credits: 2
+  preReq: NONE
+  description: 
+    - Probability Theory- Probability space, Random variables, probability distributions, joint and conditional distributions. Information Theory- Entropy, mutual information, divergences, Hypothesis testing.
+    - N-gram and continuous space language models, distributed representations, probabilistic taggers and sequence labeling (HMM, maximum entropy models, conditional random fields), probabilistic parsing and structured prediction, probabilistic topic models, statistical machine translation.
+
+- courseCode: CS5343
+  courseTitle: Computer and Network Security
+  credits: 3
+  preReq: OS and Computer Networks
+  description: It covers foundations of cryptography, system security, network security, Wi-Fi security, web security, mobile platform security with hands-on assignments and projects.  
+
+- courseCode: CS5380
+  courseTitle: Introduction to Wireless Networks1
+  credits: 1
+  preReq: Computer Networks-1
+  description: Fundamentals of Wireless Communication, Wired vs Wireless Networks, Overview of various wireless technologies- Wireless LANs, Cellular Systems, Mobile Ad hoc Networks, Bluetooth, Zigbee, etc.
+
+- courseCode: CS6140
+  courseTitle: Video Content Analysis
+  credits: 3
+  preReq: NONE
+  description: Introduction to video content analysis, feature extraction, video structure analysis –shot and scene segmentation, content based video classification, video abstraction – skimming and summarization, event detection and classification, indexing for retrieval and browsing, Applications –Movie and sports video analysis, news video indexing and retrieval etc.
+
+- courseCode: CS6180
+  courseTitle: Systems Security
+  credits: 3
+  preReq: NONE
+  description: Understand the fundamental principles of access control models and techniques, authentication and secure system design. Have a strong understanding of different cryptographic protocols and techniques and be able to use them. Apply methods for authentication, access control, intrusion detection and prevention. Introduction Motivating examples, Basic concepts- confidentiality, integrity, availability, security policies, security mechanisms, assurance.Access to the System, Discretionary Access Control, Passwords for File Access, Capability List, Owner/Group/Other, Access Control Lists, Trojan Horse Threats, Mandatory Access Control, Security Models , Role of a Security Model , Practical Applications of a Model, Types of Security Models, Characteristics of a Security Model, State-Machine Models, Examples of a State Machine Model, Adding Constraints to State-Machine Access Models, The Bell and La Padula Security Model, Information-Flow Models, Informal Model-to-System Correspondence, Mapping the Functions, Mapping the Variables, Unmapped Functions and Variables Firewalls and Web Security - Packet filters, Application level gateways, Encrypted tunnels, Cookies, Web security problems Introduction to cryptography, Secret key cryptosystems, Modular Arithmetic and Public key cryptosystems, Public key cryptosystems, Diffie-Hellman and RSA Message digests, digital signatures, Identification and authentication, Passwords, Biometrics, One-time passwords and challenge response schemes, Kerberos, Kerberos, SSL, SSH.
+
+- courseCode: CS6190
+  courseTitle: Advanced Topics in Cryptology
+  credits: 3
+  preReq: NONE
+  description: Reading research papers in the area of cryptology and understanding the state of the art in the subject.
+
+- courseCode: CS6200
+  courseTitle: Advanced topics in formal methods
+  credits: 3
+  preReq: NONE
+  description: This course will involve a reading of important papers in the area of formal methods. It will be preceded by a review of prerequisite concepts in logic, verification, model checking and automata theory.
+
+- courseCode: CS6210
+  courseTitle: Advanced Machine Learning
+  credits: 3
+  preReq: NONE
+  description: Generative models for discrete data, Gaussian Models, Bayesian Statistics, Linear Regression, Logistic Regression, Directed graphical models (Bayes nets), Mixture models and the EM algorithm, Sparse linear models. Kernels- Kernel functions, kernel trick, Support vector machines (SVMs), Kernels for building generative models. Markov and hidden Markov models, State space models, Undirected graphical models (Markov random fields), Monte Carlo inference, Markov chain Monte Carlo (MCMC) inference, Graphical model structure learning, Deep learning, Boosting, On-Line learning, Decision Trees, Ranking. Compressive Sensing and Dictionary Learning- Pursuit algorithms and applications for imaging and vision.
+
+- courseCode: CS6220
+  courseTitle: Computer Vision
+  credits: 3
+  preReq: NONE
+  description: This course aims for students to (1) understand and apply fundamental mathematical and computational techniques in computer vision and (2) implement basic computer vision applications. Students successfully completing this course will be able to apply a variety of computer techniques for the design of efficient algorithms for real-world applications, such as optical character recognition, face detection and recognition, motion estimation, human tracking, and gesture recognition. The topics covered include image filters, edge detection, feature extraction, object detection, object recognition, tracking, gesture recognition, image formation and camera models, and stereo vision.
+
+- courseCode: CS6230
+  courseTitle: Optimization Methods in Machine Learning
+  credits: 3
+  preReq: Basic Machine Learning or Soft Computing course
+  description: Introduction to Optimization, Convex Sets, Convex Functions, Lagrange Duality, Convex Optimization Algorithms, Second-order cone models, Semi-definite programming, Semi-infinite programming, Minimax, Sublinear algorithms, Interior Point Methods, Active set, Stochastic gradient, Coordinate descent, Cutting planes method,  Applications to Image/Video/Multimedia Processing
+
+- courseCode: CS6300
+  courseTitle: Topics in Compiler Optimizations
+  credits: 3
+  preReq: CS3020, CS6240, CS6250
+  description: This advanced graduate level course will focus on a melange of selected topics in Compiler Optimizations. It is mostly a research based course where the registrants will focus on studying state-of-the-art algorithms, in a traditional setting or in the polyhedral compilation- studying and improving the existing algorithms published in top compiler conferences or the ones implemented in LLVM, Polly, PPCG, Pluto, etc.
+
+- courseCode: CS6310
+  courseTitle: Quantum Computing I
+  credits: 1
+  preReq: Open to third year BTech CSE onwards
+  description: Introduction to Quantum Mechanics--the mathematics and physics; Quantum Circuits; Deutsch and Deutsch Jozsa algorithms
+
+- courseCode: CS6320
+  courseTitle: Quantum Computing II
+  credits: 1
+  preReq: CS6310
+  description: Quantum Algorithms- Shor's Integer Factoring, Grover's unordered search, Hidden Subgroup Problem for various groups, Other Quantum Algorithms
+
+- courseCode: CS6330
+  courseTitle: Quantum Computing III
+  credits: 1
+  preReq: CS6310, CS6320
+  description: Quantum Error Correction, Quantum Information Theory and Quantum Cryptography
+
+- courseCode: CS6340
+  courseTitle: Quantum Computing IV
+  credits: 1
+  preReq: CS6310, CS6320, CS6330
+  description: Topics in quantum computing and information; Latest advances in the field.
+
+- courseCode: CS6350
+  courseTitle: Topics in Combinatorics
+  credits: 3
+  preReq: Self-assessment. Prior approval of the course instructor is needed
+  description: This advanced graduate level course on combinatorics will focus on selected topics such as extremal combinatorics, probabilistic techniques, algebraic method in combinatorics etc.
+
+- courseCode: CS6360
+  courseTitle: Advanced Topics in Machine Learning
+  credits: 3
+  preReq: Self-assessment- Should have prior knowledge in machine learning, either through IIT-H or Coursera courses. Prior approval of the instructor is needed.
+  description: This advanced graduate level course on machine learning will focus on selected topics such as deep learning, probabilistic graphical models, optimization in machine learning, etc. The course assumes that the student has basic knowledge in machine learning, and will have a research focus. The objective of the course will be to get a deeper understanding of machine learning algorithms, especially those that are highly relevant for contemporary real-world applications.
+
+- courseCode: CS6370
+  courseTitle: Information Retrieval
+  credits: 3
+  preReq: Data Mining / Machine Learning. Prior approval of the course instructor is needed.
+  description: 
+    - Storing, indexing and querying document data
+    - Scoring, term weighting document relevance estimation
+    - Text classification and clustering
+    - Probabilistic information retrieval
+    - Ranking in a Graph
+
+- courseCode: CS6380
+  courseTitle: Introduction to Compiler Engineering
+  credits: 1
+  preReq: CS2430 (Principles of Programming Languages 2) or Equivalent for B.Techs.  An advanced compiler course for M.Techs and PhDs.  An aptitude for large software. Prior consent of the instructor.
+  description: 
+    - Real-world compilers have complex algorithms and optimization strategies implemented in them, along with having various implementation techniques that are language/architecture independent as well as having language/architecture specific features. All the above makes engineering modern real-world compilers also a  hard software-engineering problem.
+    - This 1 credit course will focus on understanding these issues, taking the popular LLVM compiler as a case-study.
+    - The following are some of the areas that we plan to study-
+      - Analyses/Transformations in LLVM.
+      - Methods of adding new FrontEnds and BackEnds to LLVM.
+      - Introduction to Pass-manager of LLVM. Adding new passes.
+
+- courseCode: CS6390
+  courseTitle: Enabling Large Scale Data Analytics- From Theoretical Foundations to Practice
+  credits: 1
+  preReq: Data Structures and Algorithms, Any course on Probability and Statistics
+  description: Small-Space Algorithms, Estimating Statistical Properties, Distance Estimation, Clustering & Ranking, Algorithms over Massive Networks, Learning Algorithms
+
+- courseCode: CS6400
+  courseTitle: Constraint Solving
+  credits: 1
+  preReq: Data Structures, Object-oriented programming, Theory of computation, Discrete mathematics, Algorithms
+  description: Many real world problems reduce to solving a set of constraints. From time table scheduling to inventory management and fault localization to efficient resource utilization, it all ultimately boils down to expressing these problems as a set of constraints. Not only it is at the heart of most of the problems in operation research but constraint solving has applications ranging from computational biology to program analysis. These applications use the constraint solvers mostly as a black box. However, one can gain tremendously from the study of constraint solvers and the techniques they employ so as to adapt them to the problem at hand. This course will attempt to study the underlying techniques employed by modern day constraint solvers. In particular, solving techniques behind SAT, MaxSAT, Pseudo-Boolean constraint solving will be studied. In addition, this course will also attempt to take a look at SMT (Satisfiability Modulo Theories) solving.
+
+- courseCode: CS6410
+  courseTitle: Software Verification
+  credits: 3
+  preReq: Data Structures, Object-oriented programming, Theory of computation, Discrete mathematics, Algorithms, Compilers
+  description: Course Outline- Software has penetrated almost every aspect of our lives. From banking applications to air traffic control, from pacemakers to smart cars uses some software component. It is therefore of paramount importance that these software work correctly. In this course, we will study various ways to formally analyze and reason about software systems. The course may cover topics such as Hoare logic, abstract interpretation, abstraction refinement, k-induction, symbolic execution, variants of bounded model checking for sequential as well as concurrent programs such as loop bounding, context bounding and reorder bounding. Use of formal techniques for software testing and reasoning about termination can also be covered
+
+- courseCode: CS6420
+  courseTitle: Bayesian Data Analysis
+  credits: NONE
+  preReq: Any basic course in Probability
+  description: Course Outline- Bayesian data analysis fits a probability distribution over the data and summarize the results by  a probability distribution on the parameters   of the model and on unobserved quantities. Bayesian models allow the incorporation of prior information and domain knowledge which helps to better model the data and observations. This is especially useful for applications such as healthcare and computational biology with limited data availability. The course will cover various topics on bayesian data analysis such as single and multi-parameter models, regression models, hierarchical models, generalized linear models, spatio-temporal models, bayesian decision theory, Model selection,  Bayesian inference algorithms based on Monte Carlo methods, variational inference, quadrature  and expectation propagation, Bayesian non-parametric approaches such as Gaussian processes and Dirichlet processes, Point processes,  Bayesian optimization and Bayesian deep learning.
+
+- courseCode: CS6430
+  courseTitle: Computational number theory & algebra
+  credits: 3
+  preReq: Discrete mathematics, Algorithms
+  description: Finite fields, quadratic residues, primality testing, polynomial factorization, applications in cryptography/coding theory. Optional topics- Integer factoring, lattices.
+
+- courseCode: CS5360
+  courseTitle: Advanced computer architecture
+  credits: 2
+  preReq: CS2323
+  description: This course will cover several state-of-the-art and emerging topics in computer architecture, including multicore processor architecture, GPUs, CPU-GPU heterogeneous system, multi-core cache/memory architectures and resource management techniques, emerging memory technologies, processor power management techniques. The students are also expected to review and critique one recent research paper during the course.
+
+- courseCode: CS6450
+  courseTitle: Advanced Topics in Computer Vision
+  credits: 3
+  preReq: Undergraduate- or graduate-level machine learning or computer vision; A good working knowledge of C/C++, Java, Python or Matlab
+  description: This course will discuss advanced topics and current research in computer vision. Students are expected to read papers selected from various subareas such as deep learning, segmentation and grouping, object and activity recognition, scene understanding, and vision and language. Approaches for learning from image and video data will be covered and include topics from convolutional neural networks, recurrent neural networks, structured predictions and others. The course will be a mix of lecture, student presentation and discussion.
+
+- courseCode: CS6460
+  courseTitle: Introduction to Deep Learning for Vision
+  credits: 1
+  preReq: Basic knowledge of machine learning and computer vision; Linear Algebra, Probability; A good working knowledge of C/C++, Java, Python or Matlab
+  description: This course will introduce students into the complex, abstract world of computer vision and deep neural networks. Topics covered will include- Basics of deep learning and its history, State-of-the-art deep neural net models in computer vision; Specific tools and packages to train these deep nets; and what it takes to train and run these models in the real-world.
+
+- courseCode: CS6660
+  courseTitle: Mathematical Foundations of Data Sciences
+  credits: 3
+  preReq: NONE
+  description: Matrices, Vectors and Properties; Vector Spaces, Norms, Basis, Orthogonality; Matrix Decompositions- Eigen decomposition, Singular Value Decomposition; Differential Calculus- Derivatives and its significance, Partial derivatives; Optimization of single variable and multiple variable functions- Necessary and sufficient conditions; Real problems as optimization problems- Formulation and analytical solutions; Finding roots of an equation- Newton Raphson Method; Optimization via gradient methods; Probability basics, density function, counting, expectation, variance, independence, conditional probability, Poisson process, recurrences, Markov chains
+
+- courseCode: CS6670
+  courseTitle: Topics in Data Mining
+  credits: 3
+  preReq: CS3560, CS3140
+  description: Data Preprocessing, Data Warehousing & OLAP, Mining Frequent Patterns and Associations, Classification, Cluster Analysis, Mining Complex Types of Data (Sequence Data, Graphs, Social Networks, etc.), Text Mining, Stream Data Mining
