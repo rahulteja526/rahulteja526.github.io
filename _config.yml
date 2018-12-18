@@ -4,6 +4,9 @@ email: rahulteja.536@gmail.com
 baseurl: ""
 url: "http://rahulteja526.github.io"
 
+# Build settings
+markdown    : kramdown
+
 collections:
   authors:
     output: true
@@ -23,3 +26,9 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  auto_ids:       true
+  toc_levels:     1..3
