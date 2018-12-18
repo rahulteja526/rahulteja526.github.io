@@ -8,3 +8,5 @@ title: Department of CSE, IIT Hyderabad
 [Event5](/events/eve5.html)  
 [Event6](/events/eve6.html)  
 [Event7](/events/eve7.html)  
+[Kannan Chandrasekaran received the first prize in the Samsung Innovation Award 2018.](Achievements-Awards.html)  
+[We are currently accepting the applications for the MTech RA for January 2019 semester.](mtech.html)
