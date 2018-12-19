@@ -1,5 +1,5 @@
 ---
-title: Achievements Awards
+title: Awards & Honours
 ---
 <br>
 ##### Awards & Honours
