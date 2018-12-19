@@ -1,5 +1,5 @@
 ---
-title:Invited Talk by Dr. David A. Maltz, Microsoft Azure on Connecting the Cloud- Azure’s Software Defined Network
+title: Invited Talk by Dr. David A. Maltz, Microsoft Azure on Connecting the Cloud- Azure’s Software Defined Network
 ---
 
 ##### **Invited Talk by Dr. David A. Maltz, Microsoft Azure on Connecting the Cloud: Azure’s Software Defined Network**
