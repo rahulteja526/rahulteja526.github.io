@@ -2,6 +2,9 @@
 title: Invited Talk by Prof. Aditya Akella on Putting Networks on a Firm Footing- Revolutionizing Network Management (and More)
 ---
 <br>
+Back to [Events Home Page](/cseevents.html)  
+<br>
+
 ##### **Invited Talk by Prof. Aditya Akella on Putting Networks on a Firm Footing: Revolutionizing Network Management (and More)**  
 **Title:** Putting Networks on a Firm Footing: Revolutionizing Network Management (and More)  
 **Speaker :** Prof. Aditya Akella  

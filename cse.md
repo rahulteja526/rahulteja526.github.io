@@ -2,13 +2,7 @@
 title: Department of CSE, IIT Hyderabad
 ---
 <br>
-* [Event1](/events/eve1.html)  
-* [Event2](/events/eve2.html)  
-* [Event3](/events/eve3.html)  
-* [Event4](/events/eve4.html)  
-* [Event5](/events/eve5.html)  
-* [Event6](/events/eve6.html)  
-* [Event7](/events/eve7.html)  
+
 * [Kannan Chandrasekaran received the first prize in the Samsung Innovation Award 2018.](Achievements-Awards.html)  
 * [We are currently accepting the applications for the MTech RA for January 2019 semester.](mtech.html)  
 * [We are currently accepting the applications for the Ph.D for January 2019 semester.](phd.html)  
@@ -121,4 +115,30 @@ title: Department of CSE, IIT Hyderabad
 * Nov 30,2015: [The list of candidates have been shortlisted for the Ph.D Programme for December,2015 Intake](phd.html)
 * Nov 29,2015: [Written Test and Interviews Date for PhD Admissions: Dec 9th, 2015](phd.html)
 * Nov 14,2015: [The CSE department is accepting applications for the 3-year MTech (RA) program for December 2015 session intake.](mtech.html)
-* 
+* Nov 06,2015: [The CSE department is accepting applications for the Ph.D program for December 2015 session intake](phd.html)
+* Oct 05,2015: [Indo-UK Workshop on "Conformal Prediction for Reliable Machine Learning to be held from Dec 15-18, 2015"](indouk.html)
+* Oct 05,2015: [Adepu Ravi Sankar wins the Intel India PhD Fellowship 2015 award](adepu.html)
+* Sep 14,2015: [Hatim Lokhandwala and Aref Kashani (working at Microsoft IDC,Hyd.) emerged as the winners in both Mobile and Web application Testing event - BugAthon 2015, conducted by Agile Testing Alliance](http://bugatahon.agiletestingalliance.org/)
+* Aug 20,2015: [Srikant Manas Kala et. al. won Best Paper Award at ICACCI 2015](srikant.html)
+* Jul 27,2015: [Update on Spot Admissions for Regular 2-year MTech(TA)Programme](mtech.html)
+* Jul 22,2015: [List of Selected Candidates for MTech (RA) and Sponsored MTech programmes](mtech.html)
+* Jul 21,2015: [Candidates selected for Executive M.Tech in Data Science August 2015]
+* Jul 09,2015: [Fifth Round of Candidates Selected for Regular 2-year MTech (TA) July 2015](mtech.html)
+* Jul 04,2015: [4th round of offers of Regular 2-year MTech (TA) Program announced](mtech.html)
+* Jul 02,2015: [Shortlisted candidates for MTech in Data Science Programme announced]
+* Jun 25,2015: [Last Date for Submission of Applications to Executive M.Tech in Data Science Program is extended till June 25, 2015]
+* Jun 25,2015: [Candidates Shortlisted for interviews for Sponsored MTech/MTech (RA) programmes announced](mtech.html)
+* Jun 20,2015: [Update on MTech (RA) and Sponsored MTech admissions for 2015-16](mtech.html)
+* Jun 20,2015: [2nd round of offers of Regular 2-year MTech (TA) Program announced](mtech.html)
+* Jun 19,2015: [3rd round of offers of Regular 2-year MTech (TA) Program announced](mtech.html)
+* May 28,2015: [Selected Candidates for Ph.D. Programme starting August 2015](https://cse.iith.ac.in/sites/default/files/phd_2015_aug_shortlist.pdf)
+* May 26,2015: [First round of regular 2-year MTech (TA) candidates announced](mtech.html)
+* May 13,2015: Certificate course on business analytics, CSE Department, IIT Hyderabad (Weekend Programme, April-2015)
+* May 12,2015: Admissions are open for Executive M.Tech in Data Science Program
+* Apr 30,2015: [Pratik Bhatu's LLVM compiler based Compile-Time Optimizations in Polly got accepted in Google Summer of Code(GSoC-15)](http://www.google-melange.com/gsoc/project/details/google/gsoc2015/bhatuzdaname/5649050225344512)
+* Apr 30,2015: [IIT Hyderabad emerges joint winner in Microsoft hacking contest](http://www.thehindu.com/news/cities/Hyderabad/iit-hyderabad-emerges-joint-winner-in-hacking-contest/article7034148.ece)
+* Apr 30,2015: IIT Hyderabad's team has won the silver medal in the Opensoft Challenge : Inter IIT Techmeet 2015 held at IIT Kharagpur.
+* Apr 30,2015: [Vinay Guthal and Pushkar Singh from CSE IITH have bagged the second prize in TCS CodeVita Coding Challenge](http://www.tcs.com/news_events/press_releases/Pages/49,000-teams-compete-TCS-CodeVita-coding-challenge.aspx)
+
+CSE Dept is currently accepting application for the Internship admission  
+CSE Dept is currently accepting application for the Internship admission
