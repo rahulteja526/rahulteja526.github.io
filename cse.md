@@ -1,5 +1,5 @@
 ---
-title: Department of CSE, IIT Hyderabad
+title: NEWS | Department of CSE, IIT Hyderabad
 ---
 <br>
 
