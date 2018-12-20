@@ -30,7 +30,7 @@
           <ul class="navbar-nav mr-auto">
             <li class="nav-item">
                 {% for item in site.data.navigation %}
-                <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+                <a style="background:#5accde; border-radius: 5px 5px  5px 5px "   href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}><strong>{{ item.name }}</strong></a>
                {% endfor %}
             </li>
           </ul>
