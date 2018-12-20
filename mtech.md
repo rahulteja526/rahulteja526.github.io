@@ -6,7 +6,7 @@ Back to [CSE Home Page](cse.html)
 <br>
 
 ##### M.Tech Admission Details
-**Update 18th December 2018:** Results of admissions into our MTech(RA) and Sponsored M.Tech programmes can be found [here](https://cse.iith.ac.in/index-q=node-686.html)  
+**Update 18th December 2018:** Results of admissions into our MTech(RA) and Sponsored M.Tech programmes can be found [here](m3a.html)  
 **Update 6th November 2018:** We will have interrviews for the 3-Year MTech program (MTech-RA) on 26th Nov, 2018.  
 **Update 23rd October 2018:** We are accepting applications for MTech RA 2019. here.
 

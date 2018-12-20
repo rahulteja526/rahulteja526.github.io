@@ -3,6 +3,9 @@ title: Department of CSE, IIT Hyderabad
 ---
 <br>
 
+* [M.Tech(RA) and Sponsored M.Tech Program results are out](mtech.html)
+* Dr. Rakesh Venkat has joined the CSE Department
+* 01-12-2018: [Apply for Research Staff Positions in CCRAN (Energy Efficiencyin Converged Cloud Radio Next Generation Access Network) Project](https://goo.gl/forms/Ex15EzrrtaV3kl1m2)
 * [Kannan Chandrasekaran received the first prize in the Samsung Innovation Award 2018.](Achievements-Awards.html)  
 * [We are currently accepting the applications for the MTech RA for January 2019 semester.](mtech.html)  
 * [We are currently accepting the applications for the Ph.D for January 2019 semester.](phd.html)  
@@ -83,22 +86,22 @@ title: Department of CSE, IIT Hyderabad
 * Aug 19,2016: [Bhavana Jain, CSE BTech 3rd year student selected by Google for Venkat Panchapakesan Memorial Scholarship](https://www.google.co.in/edu/scholarships/venkat-panchapakesan-memorial-scholarship/)
 * Aug 04,2016: [Samsung Digital Academy at Indian Institute of Technology Hyderabad](https://cse.iith.ac.in/sites/default/files/Samsung%20Digital%20Academy%20at%20IITH.pdf)
 * Jul 15,2016: [List of candidates selected for the 3-year MTech (RA)programme is announced](mtech.html)
-* Jul 12,2016: [List of candidates selected for the EMDS programme are announced]
+* Jul 12,2016: [List of candidates selected for the EMDS programme are announced](exemtech.html)
 * Jul 12,2016: [Third round of offers for 2-year MTech (TA) is announced](mtech.html)
 * Jul 08,2016: [Open-WBO-LSU co-authored by Saurabh Joshi wins prizes in PB'16 competition](https://sbjoshi.github.io/)
 * Jul 07,2016: [More candidates shortlisted for interviews for 3-year MTech (RA) July 2016](mtech.html)
 * Jun 28,2016: [Candidates shortlisted for interviews for our 3-year MTech (RA) programme have been announced](mtech.html)
-* Jun 26,2016: [List of candidates shortlisted for the EMDS interview is announced.]
+* Jun 26,2016: [List of candidates shortlisted for the EMDS interview is announced.](exemtech.html)
 * Jun 22,2016: [List of candidates selected for Ph.D admission are announced](phd.html)
 * Jun 22,2016: [Candidates shortlisted for 2-year MTech (TA) interviews are announced](mtech.html)
 * Jun 15,2016: [Second round of offers for 2-year MTech (TA) are out](mtech.html)
 * Jun 14,2016: GIAN course on "Enabling Large-Scale Data Analytics: From Theoretical Foundations to Practice"
-* Jun 14,2016: [First round of shortlisted candidates for EMDS 2016 written test is out]
+* Jun 14,2016: [First round of shortlisted candidates for EMDS 2016 written test is out](exemtech.html)
 * Jun 01,2016: [First round of offers for 2-year MTech (TA) are out](mtech.html)
 * May 31,2016: [The first round of offers for the 2-year MTech programme will be announced on June 1st,2016.](mtech.html)
 * May 18,2016: Shortlisted Candidates for PhD Interviews in CSE Dept, IITH, 18-05-2015
 * May 05,2016: [IIT-H teams up with city police to enhance safety of citizens](http://www.thehindu.com/news/cities/Hyderabad/iith-teams-up-with-city-police-to-enhance-safety-of-citizens/article8553688.ece)
-* Apr 26,2016: [CSE Dept is currently accepting applications for the Executive M.Tech. in Data Science for the Academic Session of July 2016]
+* Apr 26,2016: [CSE Dept is currently accepting applications for the Executive M.Tech. in Data Science for the Academic Session of July 2016](exemtech.html)
 * Apr 25,2016: [CSE Dept. is currently accepting applications for admissions into the Ph.D. program for the academic session of July 2016.](phd.html)
 * Apr 23,2016: [Utpal Bora's Google Summer of Code (GSoC-2016) proposal has been accepted in the LLVM Compiler Infrastructure](poly.md)
 * Apr 09,2016: [CSE Department is currently accepting MTech applications for the Academic session July-2016](mtech.html)
@@ -122,11 +125,11 @@ title: Department of CSE, IIT Hyderabad
 * Aug 20,2015: [Srikant Manas Kala et. al. won Best Paper Award at ICACCI 2015](srikant.html)
 * Jul 27,2015: [Update on Spot Admissions for Regular 2-year MTech(TA)Programme](mtech.html)
 * Jul 22,2015: [List of Selected Candidates for MTech (RA) and Sponsored MTech programmes](mtech.html)
-* Jul 21,2015: [Candidates selected for Executive M.Tech in Data Science August 2015]
+* Jul 21,2015: [Candidates selected for Executive M.Tech in Data Science August 2015](exemtech.html)
 * Jul 09,2015: [Fifth Round of Candidates Selected for Regular 2-year MTech (TA) July 2015](mtech.html)
 * Jul 04,2015: [4th round of offers of Regular 2-year MTech (TA) Program announced](mtech.html)
-* Jul 02,2015: [Shortlisted candidates for MTech in Data Science Programme announced]
-* Jun 25,2015: [Last Date for Submission of Applications to Executive M.Tech in Data Science Program is extended till June 25, 2015]
+* Jul 02,2015: [Shortlisted candidates for MTech in Data Science Programme announced](exemtech.html)
+* Jun 25,2015: [Last Date for Submission of Applications to Executive M.Tech in Data Science Program is extended till June 25, 2015](exemtech.html)
 * Jun 25,2015: [Candidates Shortlisted for interviews for Sponsored MTech/MTech (RA) programmes announced](mtech.html)
 * Jun 20,2015: [Update on MTech (RA) and Sponsored MTech admissions for 2015-16](mtech.html)
 * Jun 20,2015: [2nd round of offers of Regular 2-year MTech (TA) Program announced](mtech.html)
