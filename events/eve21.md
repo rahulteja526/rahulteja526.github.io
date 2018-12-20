@@ -1,10 +1,10 @@
 ---
 title: Seminar by Dr.Sparsh Mittal on "Improving clarity in paper writing"
 ---
-<br>
+
 ##### **Seminar by Dr.Sparsh Mittal on "Improving clarity in paper writing"**
-**Title:** Improving clarity in paper writing
-**Speaker:** Dr. Sparsh Mittal
+**Title:** Improving clarity in paper writing  
+**Speaker:** Dr. Sparsh Mittal  
 
 **Abstract:**
 
@@ -14,6 +14,7 @@ These tips are useful for writing a research paper or thesis, and may be useful 
 Video Link - https://drive.google.com/drive/folders/0B5msFCl_M_7YZFVuS09fakhMdFk
  
 **Speaker's Bio:**
+
 Dr. Sparsh Mittal is a faculty member in CSE department. He has written more than 65 research papers. His webpage is here: http://www.iith.ac.in/~sparsh/
 
 **Dates:**  

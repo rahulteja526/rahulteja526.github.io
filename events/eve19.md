@@ -2,10 +2,10 @@
 title: Invited Talk by Dr. R Inkulu on A polynomial time algorithm for finding an approximate shortest path amid weighted regions
 ---
 ##### **Invited Talk by Dr. R Inkulu on A polynomial time algorithm for finding an approximate shortest path amid weighted regions**
-**Title:** A polynomial time algorithm for finding an approximate shortest path amid weighted regions
-**Speaker:** Dr. R Inkulu, IIT Guwahati
-**Host Faculty:**  Dr. Subrahmanyam Kalyanasundaram
-**Room No:** Room 317 in academic block A.
+**Title:** A polynomial time algorithm for finding an approximate shortest path amid weighted regions  
+**Speaker:** Dr. R Inkulu, IIT Guwahati  
+**Host Faculty:**  Dr. Subrahmanyam Kalyanasundaram  
+**Room No:** Room 317 in academic block A.  
 **Time:** 11:00
  
 **Abstract:**

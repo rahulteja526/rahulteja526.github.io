@@ -3,10 +3,10 @@ title: Department Seminar by Dr.Sparsh Mittal on "Improving Clarity in Paper Wri
 ---
 
 ##### **Department Seminar by Dr.Sparsh Mittal on "Improving Clarity in Paper Writing"**
-**Title:** Improving Clarity in Paper Writing
-**Speaker:** Dr. Sparsh Mittal
-**Room No:** A block, Room 317
-**Time:** 15:00
+**Title:** Improving Clarity in Paper Writing  
+**Speaker:** Dr. Sparsh Mittal  
+**Room No:** A block, Room 317  
+**Time:** 15:00  
 
 **Abstract:**
 

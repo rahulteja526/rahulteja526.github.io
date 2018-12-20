@@ -1,13 +1,13 @@
 ---
 title: Invited Talk by Dr Matjaz Kovse on Distance matrices of partial cubes
 ---
-<br>
+
 ##### **Invited Talk by Dr Matjaz Kovse on Distance matrices of partial cubes**
-**Title:** Distance matrices of partial cubes
-**Speaker:** Dr. Matjaz Kovse
-**Host Faculty:**  Dr. N R Aravind
-**Room No:** Room 117 in academic block A.
-**Time:** 14:30
+**Title:** Distance matrices of partial cubes  
+**Speaker:** Dr. Matjaz Kovse  
+**Host Faculty:**  Dr. N R Aravind  
+**Room No:** Room 117 in academic block A.  
+**Time:** 14:30  
  
 **Abstract:**
 

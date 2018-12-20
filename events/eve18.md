@@ -3,11 +3,11 @@ title:
 ---
 <br>
 ##### **Invited Talk by Dr. Niloy Ganguly on Extracting and Utilizing Information from Microblogs during Disaster**
-**Title:** Extracting and Utilizing Information from Microblogs during Disaster
-**Speaker:** Dr. Niloy Ganguly
-**Host Faculty:**  Dr. Srijith P.K.
-**Room No:** Auditorium, academic block A.
-**Time:** 12:00
+**Title:** Extracting and Utilizing Information from Microblogs during Disaster  
+**Speaker:** Dr. Niloy Ganguly  
+**Host Faculty:**  Dr. Srijith P.K.  
+**Room No:** Auditorium, academic block A.  
+**Time:** 12:00  
  
 **Abstract:**
 

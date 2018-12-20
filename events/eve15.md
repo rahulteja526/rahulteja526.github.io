@@ -2,12 +2,12 @@
 title: 
 ---
 <br>
-##### **Invited Talk by Dr. Sushmita Gupta on Multivariate Analysis of Hard Variants of Stable Marriage Problem**
-**Title:** Multivariate Analysis of Hard Variants of Stable Marriage Problem
-**Speaker:** Dr. Sushmita Gupta
-**Host Faculty:**  Dr. Subrahmanyam Kalyanasundaram
-**Room No:** A-220, academic block A.
-**Time:** 12:00
+##### **Invited Talk by Dr. Sushmita Gupta on Multivariate Analysis of Hard Variants of Stable Marriage Problem**  
+**Title:** Multivariate Analysis of Hard Variants of Stable Marriage Problem  
+**Speaker:** Dr. Sushmita Gupta  
+**Host Faculty:**  Dr. Subrahmanyam Kalyanasundaram  
+**Room No:** A-220, academic block A.  
+**Time:** 12:00  
 
 **Abstract:**
 

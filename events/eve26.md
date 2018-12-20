@@ -7,7 +7,7 @@ title: Invited Talk by Dr. Satish Srirama on Mobile and Cloud Centric IoT
 **Speaker:** Dr. Satish Srirama, University of Tartu, Estonia.  
 **Host Faculty:**  Dr. Bheemarjuna Reddy Tamma  
 **Room No:** Room 119 in academic block A.  
-**Time:** 12:00
+**Time:** 12:00  
  
 **Abstract:**
 

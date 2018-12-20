@@ -1,13 +1,13 @@
 ---
 title: Invited Talk by Prof. Ponnurangam Kumaraguru on Social Complexity and Computing on Online Networks
 ---
-<br>
+
 ##### **Invited Talk by Prof. Ponnurangam Kumaraguru on Social Complexity and Computing on Online Networks**
-**Title:** Social Complexity and Computing on Online Networks
-**Speaker:** Prof. Ponnurangam Kumaraguru, IIIT Delhi.
-**Host Faculty:** Dr. Srijith P.K.
-**Room No:** LH-2
-**Time:** 12:00
+**Title:** Social Complexity and Computing on Online Networks  
+**Speaker:** Prof. Ponnurangam Kumaraguru, IIIT Delhi.  
+**Host Faculty:** Dr. Srijith P.K.  
+**Room No:** LH-2  
+**Time:** 12:00  
  
 **Abstract:**
 

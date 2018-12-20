@@ -1,15 +1,13 @@
 ---
 title: Invited Talk by Dr. Suryajith Chillara on Small-depth Multilinear Formula Lower Bounds for Iterated Matrix
 ---
-<br>
-Back to [Events Home Page](/cseevents.html)  
-<br>
+
 ##### **Invited Talk by Dr. Suryajith Chillara on Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications**
 **Title:** Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications  
-**Speaker:** Dr. Suryajith Chillara from IITB.
-**Host Faculty:**  Dr. Karteek Sreenivasaiah
-**Room No:** A-317
-**Time:** 14:00 PM - 15:00 PM
+**Speaker:** Dr. Suryajith Chillara from IITB.  
+**Host Faculty:**  Dr. Karteek Sreenivasaiah  
+**Room No:** A-317  
+**Time:** 14:00 PM - 15:00 PM  
 **Abstract:**  
 The complexity of Iterated Matrix Multiplication is a central theme in Computational Complexity theory, as the problem is closely related to the problem of separating various complexity classes within P. In this paper, we study the algebraic formula complexity of multiplying d many 2 x 2 matrices, denoted IMM_d, and show that the well-known divide-and-conquer algorithm cannot be significantly improved at any depth, as long as the formulas are multilinear (that is, every node in the formula computes a multilinear polynomial). 
 

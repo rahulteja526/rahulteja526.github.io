@@ -1,14 +1,13 @@
 ---
 title: CSE seminar by Dr. Sparsh Mittal on Autonomous driving- constraints and hardware acceleration.
 ---
-<br>
-Back to [Events Home Page](/cseevents.html)  
-<br>
+
 ##### **CSE seminar by Dr. Sparsh Mittal on Autonomous driving: constraints and hardware acceleration.**
-**Title:** Autonomous driving: constraints and hardware acceleration. 
-**Speaker:** Dr. Sparsh Mittal, Assistant Professor in the dept. of CSE, IIT Hyderabad
-**Room No:** LH-2, Academic block
-**Time:** 10:00-11:00
+**Title:** Autonomous driving: constraints and hardware acceleration.  
+**Speaker:** Dr. Sparsh Mittal, Assistant Professor in the dept. of CSE, IIT Hyderabad  
+**Room No:** LH-2, Academic block  
+**Time:** 10:00-11:00  
+
 **Abstract:**  
 (This talk is mostly based on the paper "The Architectural Implications of Autonomous Driving: Constraints and Acceleration" by University of Michigan research group, published in ASPLOS 2018.  )
 

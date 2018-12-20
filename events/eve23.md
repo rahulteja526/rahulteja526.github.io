@@ -1,13 +1,13 @@
 ---
 title: Seminar on "Introduction to CUDA" by Dr Sparsh Mittal
 ---
-<br>
-Seminar on "Introduction to CUDA" by Dr Sparsh Mittal
-**Title:**Introduction to CUDA
-**Speaker:** Dr Sparsh Mittal
-**Date:** 7th Sept 2017 (Thursday)
-**Venue:** Auditorium
-**Timings:** 12:00 to 13:30
+
+##### **Seminar on "Introduction to CUDA" by Dr Sparsh Mittal**  
+**Title:**Introduction to CUDA  
+**Speaker:** Dr Sparsh Mittal  
+**Date:** 7th Sept 2017 (Thursday)  
+**Venue:** Auditorium  
+**Timings:** 12:00 to 13:30  
  
 **Abstract:** Dr Sparsh Mittal will present a seminar on "Introduction to CUDA: a programming language for GPUs". The presentation will start with a brief introduction to GPU (graphics processing unit) and the memory address spaces in GPUs. CUDA programming will be illustrated through hello world program, scalar/vector addition program, and matrix multiplication program using global memory vs shared memory. Further, the use of threads/blocks, shared memory and thread synchronization using barrier in CUDA will be discussed through programs. 
 The presentation will be useful for those interested in using GPUs for accelerating their workloads. 

@@ -1,12 +1,12 @@
 ---
 title: Invited Talk by Dr. NV Narendra Kumar on Blockchain Technology and Cryptocurrency
 ---
-<br>
+
 ##### **Invited Talk by Dr. NV Narendra Kumar on Blockchain Technology and Cryptocurrency**
-**Title:** Blockchain Technology and Cryptocurrency
-**Speaker:** Dr. NV Narendra Kumar of IDRBT
-**Host Faculty:** Dr. M V Panduranga Rao
-**Room No:** Room 119 in academic block A.
+**Title:** Blockchain Technology and Cryptocurrency  
+**Speaker:** Dr. NV Narendra Kumar of IDRBT  
+**Host Faculty:** Dr. M V Panduranga Rao  
+**Room No:** Room 119 in academic block A.  
 **Time:** 10:30
  
 **Abstract:**

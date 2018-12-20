@@ -1,13 +1,13 @@
 ---
-title: 
+title: Invited Talk by Dr. R Krithika on The Parameterized Complexity of Cycle Packing- Indifference is Not an Issue
 ---
-<br>
+
 ##### **Invited Talk by Dr. R Krithika on The Parameterized Complexity of Cycle Packing: Indifference is Not an Issue**
-**Title:** The Parameterized Complexity of Cycle Packing: Indifference is Not an Issue
-**Speaker:** Dr. R Krithika, Institute of Mathematical Sciences, Chennai
-**Host Faculty:**  Dr. Subrahmanyam Kalyanasundaram
-**Room No:** A-220, academic block A.
-Time:12:00
+**Title:** The Parameterized Complexity of Cycle Packing: Indifference is Not an Issue  
+**Speaker:** Dr. R Krithika, Institute of Mathematical Sciences, Chennai  
+**Host Faculty:**  Dr. Subrahmanyam Kalyanasundaram  
+**Room No:** A-220, academic block A.  
+**Time:** 12:00  
  
 **Abstract:**
 

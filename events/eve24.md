@@ -3,11 +3,11 @@ title: Invited Talk by Prof. Kishore Kothapalli on Ear Decomposition of Graphs w
 ---
 
 ##### **Invited Talk by Prof. Kishore Kothapalli on Ear Decomposition of Graphs with Application to Path-based Problems**
-**Title:** Ear Decomposition of Graphs with Application to Path-based Problems
-**Speaker:** Prof. Kishore Kothapalli from International Institute of Information Technology Hyderabad
-**Host Faculty:** Dr. Sathya Peri
-**Room No:** Room 416 in academic block A.
-**Time:** 14:00-15:00
+**Title:** Ear Decomposition of Graphs with Application to Path-based Problems  
+**Speaker:** Prof. Kishore Kothapalli from International Institute of Information Technology Hyderabad  
+**Host Faculty:** Dr. Sathya Peri  
+**Room No:** Room 416 in academic block A.  
+**Time:** 14:00-15:00  
  
 **Abstract:**
 

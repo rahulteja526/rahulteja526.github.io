@@ -1,13 +1,13 @@
 ---
 title: 
 ---
-<br>
+
 ##### **Invited Talk by Dr. Balagopal Komarath on On the complexity of hazard-free circuits**
-**Title:** On the complexity of hazard-free circuits
-**Speaker:** Dr. Balagopal Komarath, Saarland University
-**Host Faculty:**  Dr. Karteek sreenivasaiah
-**Room No:** A-220, academic block A.
-**Time:** 14:30
+**Title:** On the complexity of hazard-free circuits  
+**Speaker:** Dr. Balagopal Komarath, Saarland University  
+**Host Faculty:**  Dr. Karteek sreenivasaiah  
+**Room No:** A-220, academic block A.  
+**Time:** 14:30  
  
 **Abstract:**
 
@@ -17,6 +17,7 @@ As our main upper-bound result we show how to efficiently convert a Boolean circ
 As a side result we establish the NP-completeness of several hazard detection problems.
 
 **Speaker Bio:**  
+
 Dr. Balagopal Komarath is a postdoc researcher in the complexity group at Saarland University, Germany. He obtained his PhD from IITM in 2015. He research interests are in circuit complexity and algorithms.
 
 **Dates:**  
